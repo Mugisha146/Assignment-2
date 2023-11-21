@@ -1,2 +1,4 @@
 # Assignment-2
-Assignment 2
+Name: 1.MUGISHA Emmanuel 221001330
+      2.IRADUKUNDA Jean Claude 221017513
+      3.HABYARIMANA Joel 221030103
